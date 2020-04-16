@@ -1,0 +1,59 @@
+img{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+}
+body{
+    margin: 0px;
+}
+#landing{
+    background-color: aquamarine;
+    margin: 0;
+    padding: 0;
+}
+#logo{
+    height: 100px;
+}
+.login-form {
+    background-color: rgb(0, 138, 156);
+    margin: 0 39% 0 39%;
+    padding: 20px 0 20px 0;
+    border-radius: 13px;
+    margin-top: 3%;
+}
+ul{
+    list-style: none;
+    text-align: right;
+    color: red;
+    padding-right: 100px;
+}
+ul li:last-child{
+    color: black;
+}
+li{
+    display: inline;
+}
+
+input{
+    border-radius: 13px;
+    border-style: none;
+}
+#login{
+    background-color: green;
+    margin-top: 20px;
+}
+#last-text{
+    margin-top: 10%;
+    font-weight: bold;
+}
+.login-form>p{
+    font-weight: bold;
+}
+input{
+    margin: 5px 0 10px 0;
+    width: fit-content;
+}
+
+footer{
+	text-align: center;
+}
